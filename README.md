@@ -4,7 +4,7 @@ Natural Disasters in the USA: Data Analysis and Visualization (2000-2023)
 Project Overview
 ----------------
 
-This project offers a comprehensive visual analysis of natural disasters in the United States from 2000 to 2023. By leveraging interactive dashboards, the study highlights the frequency, regional distribution, recovery times, human impact, and economic consequences of these disasters. Through the use of data visualization tools, the goal is to provide clear insights into how various natural disasters affect both people and the economy across different regions.
+This project offers a comprehensive visual analysis of natural disasters in the United States from 2000 to 2023. By leveraging interactive dashboards, the study highlights the frequency, regional distribution, recovery times, human impact, and economic consequences of these disasters. Through the use of data visualization tool like Tableau, the goal is to provide clear insights into how various natural disasters affect both people and the economy across different regions.
 
 Dashboards
 ----------
